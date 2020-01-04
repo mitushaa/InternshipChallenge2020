@@ -82,15 +82,11 @@ Dataset used for Online Retail- https://archive.ics.uci.edu/ml/datasets/online+r
 * Simple Approch - Just sort by ratings!
 ### Example 
 Here Product 1- Philips Upbeat has 404 ratings and Product 2- Philips Sports in has 1853 Ratings
-
-### Here - Product 1 (4 stars) and  Product 2 (3.5 stars)
-Does this mean Product 1 is better than Product 2 <br>
-The Answer is "NO"<br>
-The key point with this is confidence<br>
-
-
-
 ![](https://miro.medium.com/max/1517/1*UhXvWR8icmi7Y3vH8vpyJg.png)<br><br>
+### Here - Product 1 (4 stars) and  Product 2 (3.5 stars)
+* Does this mean Product 1 is better than Product 2 <br>
+* The Answer is "NO"<br>
+* The key point with this is confidence
 
 
 
