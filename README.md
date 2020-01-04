@@ -41,14 +41,9 @@ A recommender system or a recommendation system (sometimes replacing '_system_' 
    
    
 
- 
-
-
-
-
 
 ## Examples of Recommender Systems: 
-1. Youtube
+##1. Netflix
 
 ![](https://miro.medium.com/max/2569/1*6IieubHlYTll0hVoB_76tA.png)<br><br>
 
