@@ -40,14 +40,31 @@ A recommender system or a recommendation system (sometimes replacing '_system_' 
  ![](https://miro.medium.com/max/861/1*ndNki25rEmCZxra6nfsZ7Q.png)<br><br>
    
    
-
-
 ## Examples of Recommender Systems: 
 ##1. Netflix
 
 ![](https://miro.medium.com/max/2569/1*6IieubHlYTll0hVoB_76tA.png)<br><br>
 
+## Recommendation Based on Intution
+
+![](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/05/0o0zVW2O6Rv-LI5Mu.png)<br><br>
+
+### Recommendation can be based on:
+
+## 1. Popularity
+* More Buying - More Money
+
+Eg. Highest Grossing Movies: Avatar, Tianic, etc. People are willing to pay money to watch these movies.
+
+
+
+
+Why use recommendation system ?
+
+If I am doing a business and I show you relevent products which you might like, then there are high chances of the customer buying your product and the business making money
 
 
 ## Types of Recommendation Systems:
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S1110866515000341-gr2.jpg)<br><br>
+
+
