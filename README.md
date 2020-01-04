@@ -53,8 +53,18 @@ A recommender system or a recommendation system (sometimes replacing '_system_' 
 
 ## 1. Popularity
 * More Buying - More Money
+* Eg. Highest Grossing Movies: Avatar, Tianic, etc. People are willing to pay money to watch these movies.
 
-Eg. Highest Grossing Movies: Avatar, Tianic, etc. People are willing to pay money to watch these movies.
+![](https://i.ytimg.com/vi/1HtruA2goY0/hqdefault.jpg)<br><br>
+
+
+## 2. Popularity Issues
+* If I go for a vacation in a new city and I get recommendation of McDonald's which is the most popular resturant. 
+* I might not like McDonald's as an option, as I would love to try the local food in the given area
+
+
+
+
 
 
 
