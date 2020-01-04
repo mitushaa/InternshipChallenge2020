@@ -70,6 +70,12 @@ If I buy an Iphone XR, I get recommendations of of buying an Iphone charger, cas
 Another simple approch is being aware of products which are being **bought together** or **the things that go together**.
 ![](https://miro.medium.com/max/2175/1*0L6ADAylyU1Hx1hflzOjFQ.png)<br><br>
 
+## How does this work?
+### My Approch- Apriori algorithm
+
+Apriori is an algorithm for frequent item set mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database - _Wikipedia_
+
+
 
 
 
