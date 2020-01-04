@@ -79,6 +79,18 @@ You can find my detailed explaination here- [Aprori Algorithm](https://github.co
 Dataset used for Online Retail- https://archive.ics.uci.edu/ml/datasets/online+retail
 
 ## How to recommend?
+* Simple Approch - Just sort by ratings!
+### Example 
+Here Product 1- Philips Upbeat has 404 ratings and Product 2- Philips Sports in has 1853 Ratings
+
+### Here - Product 2 Ratings > Product 1 Ratings
+So, the problem is with the average rating.
+   
+
+![](https://miro.medium.com/max/1517/1*UhXvWR8icmi7Y3vH8vpyJg.png)<br><br>
+
+
+
 
 
 
