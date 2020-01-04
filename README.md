@@ -105,7 +105,7 @@ Here Product 1- Philips Upbeat has 404 ratings and Product 2- Philips Sports in 
 
 
 
-Why use recommendation system ?
+## Why use recommendation system ?
 
 If I am doing a business and I show you relevent products which you might like, then there are high chances of the customer buying your product and the business making money
 
