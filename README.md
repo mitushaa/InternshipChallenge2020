@@ -75,7 +75,8 @@ Another simple approch is being aware of products which are being **bought toget
 
 Apriori is an algorithm for frequent item set mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database - _Wikipedia_
 
-You can find my detailed explaination here- [Aprori Algorithm](https://github.com/mitushaa/ShopifyInternshipChallenge2020/wiki/Apriori-Algorithm)
+You can find my detailed explaination here- [Aprori Algorithm](https://github.com/mitushaa/ShopifyInternshipChallenge2020/wiki/Apriori-Algorithm)<br>
+Dataset used for Online Retail- https://archive.ics.uci.edu/ml/datasets/online+retail
 
 
 
