@@ -78,6 +78,9 @@ Apriori is an algorithm for frequent item set mining and association rule learni
 You can find my detailed explaination here- [Aprori Algorithm](https://github.com/mitushaa/ShopifyInternshipChallenge2020/wiki/Apriori-Algorithm)<br>
 Dataset used for Online Retail- https://archive.ics.uci.edu/ml/datasets/online+retail
 
+## How to recommend?
+
+
 
 
 
