@@ -71,7 +71,7 @@ Another simple approch is being aware of products which are being **bought toget
 ![](https://miro.medium.com/max/2175/1*0L6ADAylyU1Hx1hflzOjFQ.png)<br><br>
 
 ## How does this work?
-### Approch- Apriori algorithm
+### Approach- Apriori algorithm
 
 Apriori is an algorithm for frequent item set mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database - _Wikipedia_
 
@@ -79,14 +79,16 @@ You can find my detailed explaination here- [Aprori Algorithm](https://github.co
 Dataset used for Online Retail- https://archive.ics.uci.edu/ml/datasets/online+retail
 
 ## How to recommend?
-* Simple Approch - Just sort by ratings!
+* Simple Approach - Just sort by ratings!
 ### Example 
 Here Product 1- Philips Upbeat has 404 ratings and Product 2- Philips Sports in has 1853 Ratings
 ![](https://miro.medium.com/max/1517/1*UhXvWR8icmi7Y3vH8vpyJg.png)<br><br>
 ### Here - Product 1 (4 stars) and  Product 2 (3.5 stars)
 * Does this mean Product 1 is better than Product 2 <br>
 * The Answer is "NO"<br>
-* The key point with this is confidence
+* The key point with this is confidence<br>
+
+
 
 
 
