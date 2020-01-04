@@ -49,18 +49,30 @@ A recommender system or a recommendation system (sometimes replacing '_system_' 
 
 ![](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/05/0o0zVW2O6Rv-LI5Mu.png)<br><br>
 
-### Recommendation can be based on:
+## Recommendation can be based on:
 
-## 1. Popularity
+### 1. Popularity
 * More Buying - More Money
 * Eg. Highest Grossing Movies: Avatar, Tianic, etc. People are willing to pay money to watch these movies.
 
 ![](https://i.ytimg.com/vi/1HtruA2goY0/hqdefault.jpg)<br><br>
 
 
-## 2. Popularity Issues
+### 2. Popularity Issues
 * If I go for a vacation in a new city and I get recommendation of McDonald's which is the most popular resturant. 
 * I might not like McDonald's as an option, as I would love to try the local food in the given area
+
+## Recommendation Based on Association:
+
+## Example 
+If I buy an Iphone XR, I get recommendations of of buying an Iphone charger, case, etc.
+
+Another simple approch is being aware of products which are being **bought together** or **the things that go together**.
+![](https://miro.medium.com/max/2175/1*0L6ADAylyU1Hx1hflzOjFQ.png)<br><br>
+
+
+
+
 
 
 
