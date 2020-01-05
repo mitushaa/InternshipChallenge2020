@@ -3,12 +3,10 @@
  The goal of my project is to show the capabilities of a Recommendation Engine.<br>
   
    I'll be introducing following things:
-1. Recommendation System Using collaborative filtering with Python
-2. Recommendation System Using Content Based System with Python
-3. Recommendation System Using Hybrid Recommender with Python (Optional)
-4. Context Aware Recommender System using Python(Optional)
-
-
+1. Recommendation System Using collaborative filtering 
+2. Recommendation System Using Content Based System
+3. Recommendation System Using Hybrid Recommender
+4. Context Aware Recommender System
 
 ## 1. Collaborative Filtering Recommender Systems
  ### **User-Based collaborative filtering**- <br> 
@@ -56,7 +54,7 @@ systems.
 Use Case
 
 
-## Implementation
+## Implementation of Recommendation Engine
 ### 1.  Building the Basic Recommendation Engine-
 Here, I will create a basic movie recommender system in Python that uses the correlation between the ratings assigned to different movies, in order to find the similarity between the movies.
 
