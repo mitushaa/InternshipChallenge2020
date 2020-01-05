@@ -27,6 +27,15 @@
    * A content recommender system typically contains a user-profile generation step, item profile generation step and model building step to generate recommendations for an active user. 
    * The content-based recommender system recommends items to users by taking the content or features of items and user profiles. 
    * **Example-** If you have searched for videos of Car Racing on YouTube, then the content-based recommender system will learn your preference and recommend other videos related to Car Racing and other videos related to racing.
+ ## 3. Context-aware Recommender Systems
+   * Personalized recommender systems, such as content-based recommender systems, are inefficient; they fail to suggest recommendations with respect to context. 
+   * For example, assume a lady is very fond of ice-cream. Also assume that this lady goes to a cold place. Now there is high chance that a personalized recommender system suggests a popular ice-cream brand. 
+   * Now let us ask our self a question: is it the right thing to suggest an ice-cream to a person in a cold
+place? Rather, it makes sense to suggest a coffee. 
+   * This type of recommendation, which is personalized and context-aware is called a context-aware recommender
+systems.
+   
+   
 ## Technologies Used:
 * Python
 * PySpark
