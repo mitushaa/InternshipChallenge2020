@@ -16,23 +16,24 @@
    * User-based collaborative filtering is done in two steps:
    * Identify similar users based on similar user preferences.
    * Recommend new items to an active user based on the rating given by similar users on the items not rated by the active user.
- ### 2. **Item- Based collaborative filtering**- <br>
+ ### 2. **Item-Based collaborative filtering**- <br>
    * In item-based collaborative filtering, the recommendations are generated using the neighbourhood of items.<br>
    * Unlike user-based collaborative filtering, we first find similarities between items and then recommend non-rated items which are        similar to the items the active user has rated in past. 
    * Item-based recommender systems are constructed in two steps:<br>
    * Calculate the item similarity based on the item preferences.
    * Find the top similar items to the non-rated items by active user and recommend them.
    
-
-## E-commerce Dataset:
-* Online Retail Data Set
-
 ## Technologies Used:
 * Python
 * PySpark
 * Tensorflow
 * Neo4j for Graphs
 * Keras
+
+## E-commerce Dataset:
+* Online Retail Data Set
+
+
 
 ## Project Report  
  Project Report-
