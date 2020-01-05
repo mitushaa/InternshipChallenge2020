@@ -61,6 +61,7 @@ Use Case
 Here, I will create a basic movie recommender system in Python that uses the correlation between the ratings assigned to different movies, in order to find the similarity between the movies.
 
 **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
+**IDE Used**- Jupyter<br>
 **You can find my project code here**- 
     
 
