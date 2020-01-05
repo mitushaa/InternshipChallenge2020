@@ -1,4 +1,4 @@
-# Recommender System using Python 😄
+# Recommender System using Python 
  ## **My Project Description:**
  The goal of my project is to show the capabilities of a Recommendation Engine.<br>
   
@@ -57,7 +57,8 @@ Use Case
 
 
 ## Implementation
-### 1.  Building the Basic Recommendation Engine
+### 1.  Building the Basic Recommendation Engine-
+Here, I will create a basic 
  
     
 
