@@ -1,13 +1,35 @@
 # Recommender System using Python
-My Project Description: 
+My Project Description:<br>
+The goal of my project is to show the capabilities of a Recommendation Engine.
+I'll be introducing following things:
+1. Recommendation System Using collaborative filtering with Python
+2. Recommendation System Using Content Based System with Python
+3. Recommendation System Using Hybrid Recommender with Python (Optional)
+4. Context Aware Recommender System using Python(Optional)
 
-## E-commerce Dataset: 
-* Wayfair Data
+
+## E-commerce Dataset:
+* Online Retail Data Set
 
 ## Technologies Used:
 * Python
 * PySpark
+* Tensorflow
+* Neo4j for Graphs
 * Keras
+
+## Project Report  
+ Project Report-
+
+## Use Case Report
+Use Case
+
+
+## Implementation
+
+
+
+
 
 ## What is a Recommendation System?
 A recommender system or a recommendation system (sometimes replacing '_system_' with a synonym such as platform or engine) is a subclass of information filtering system that seeks to predict the "_rating_" or "_preference_" a user would give to an item- _Wikipedia_
@@ -19,28 +41,28 @@ A recommender system or a recommendation system (sometimes replacing '_system_' 
 * Netflix
 * Spotify
 * Amazon
-* Reddit 
+* Reddit
 * HackerNews
 
 ## Personalized and Non-Personalized Recommendation Systems:
-### 1. Personalized Recommendation System- 
+### 1. Personalized Recommendation System-
  * Based on user behavior like purchases
  * Page Views
  * Items added to the cart together
- 
+
  ### Example of Personalized Recommendation System-
  ![](https://miro.medium.com/max/1332/1*GBbvK7fb6vxEo9l92zp2Kw.png)<br><br>
- 
- 
-### 2. Non-Personalized Recommendation Systems- 
+
+
+### 2. Non-Personalized Recommendation Systems-
    * Based on their previous history
    * Displays the products that are popular among the people in general during that time frame.
-   
+
   ### Example of Non-Personalized Recommendation System-
  ![](https://miro.medium.com/max/861/1*ndNki25rEmCZxra6nfsZ7Q.png)<br><br>
-   
-   
-## Examples of Recommender Systems: 
+
+
+## Examples of Recommender Systems:
 ##1. Netflix
 
 ![](https://miro.medium.com/max/2569/1*6IieubHlYTll0hVoB_76tA.png)<br><br>
@@ -59,12 +81,12 @@ A recommender system or a recommendation system (sometimes replacing '_system_' 
 
 
 ### 2. Popularity Issues
-* If I go for a vacation in a new city and I get recommendation of McDonald's which is the most popular resturant. 
+* If I go for a vacation in a new city and I get recommendation of McDonald's which is the most popular resturant.
 * I might not like McDonald's as an option, as I would love to try the local food in the given area
 
 ## Recommendation Based on Association:
 
-## Example 
+## Example
 If I buy an Iphone XR, I get recommendations of of buying an Iphone charger, case, etc.
 
 Another simple approch is being aware of products which are being **bought together** or **the things that go together**.
@@ -79,8 +101,13 @@ You can find my detailed explaination here- [Aprori Algorithm](https://github.co
 Dataset used for Online Retail- https://archive.ics.uci.edu/ml/datasets/online+retail
 
 ## How to recommend?
+<<<<<<< HEAD
+* Simple Approch - Just sort by ratings!
+### Example
+=======
 * Simple Approach - Just sort by ratings!
 ### Example 
+>>>>>>> 302a31eb3e9bc1448769e586f1429c240443ea3a
 Here Product 1- Philips Upbeat has 404 ratings and Product 2- Philips Sports in has 1853 Ratings
 ![](https://miro.medium.com/max/1517/1*UhXvWR8icmi7Y3vH8vpyJg.png)<br><br>
 ### Here - Product 1 (4 stars) and  Product 2 (3.5 stars)
@@ -118,5 +145,6 @@ If I am doing a business and I show you relevent products which you might like, 
 
 ## Types of Recommendation Systems:
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S1110866515000341-gr2.jpg)<br><br>
+
 
 
