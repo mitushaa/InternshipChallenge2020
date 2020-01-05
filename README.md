@@ -24,7 +24,7 @@
    * Find the top similar items to the non-rated items by active user and recommend them.
  ## 2. Content-Based Recommender Systems
    * A content-based recommender system uses the content information of the items for building the recommendation model.<br>
-   * A content recommender system typically contains a user-profile-generation step, item profile generation step and model building step to generate recommendations for an active user. 
+   * A content recommender system typically contains a user-profile generation step, item profile generation step and model building step to generate recommendations for an active user. 
    * The content-based recommender system recommends items to users by taking the content or features of items and user profiles. 
    * **Example-** If you have searched for videos of Car Racing on YouTube, then the content-based recommender system will learn your preference and recommend other videos related to Car Racing and other videos related to racing.
 ## Technologies Used:
