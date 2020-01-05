@@ -87,6 +87,10 @@ Here Product 1- Philips Upbeat has 404 ratings and Product 2- Philips Sports in 
 * Does this mean Product 1 is better than Product 2 <br>
 * The Answer is "NO"<br>
 * The key point with this is confidence<br>
+## Confidence Interval
+![](https://miro.medium.com/max/1150/1*rVSNg4qUCBsGF51X-lZaYw.jpeg)<br><br>
+
+
 
 
 
