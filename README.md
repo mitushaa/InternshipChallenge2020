@@ -60,7 +60,7 @@ the same recommendations.
 * Tensorflow
 * Neo4j for Graphs
 * Keras
-## Installation Guide:
+##  Quick Installation Guide:
 * You will find the installation guide here- 
 
 
@@ -82,6 +82,13 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 * **Project Code**- 
 
 ## 2. Building Real-Time Recommendation Engines with Spark
+
+
+* **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
+* **IDE Used**- Jupyter<br>
+* **Project Approach**- 
+
+* **Project Code**- 
     
 ## 3. Recommender System using Collabrative System (User-Based Technique)
 
