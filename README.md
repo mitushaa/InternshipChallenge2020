@@ -55,6 +55,7 @@ Use Case
 
 
 ## Implementation of Recommendation Engine
+This is how I first started 😃
 ### 1.  Building the Basic Recommendation Engine-
 Here, I will create a basic movie recommender system in Python that uses the correlation between the ratings assigned to different movies, in order to find the similarity between the movies.
 
