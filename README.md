@@ -114,17 +114,17 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Project Code**- 
 
-## Some Recommender Algorithns- 
+## Some Recommender Algorithms- 
 
- **1. Apriori Algorithm**- <br> 
- **2. Gaussian Theorem**- <br>
- **3. Bayesian Matrix Factorization**- <br>
- **4. Singular Value Decomposition (SVD)**- <br>
- **5. Deep Neural Network**- <br>
- **6. Autoencoders**- <br>
- **7. Restricted Boltzman Model(RBM)**- <br>
- **8. Keras Neural Network**-  <br>
- **9. Page Rank**-  <br>
+ * **Apriori Algorithm-** <br> 
+ * **Gaussian Theorem**- <br>
+ * **Bayesian Matrix Factorization**- <br>
+ * **Singular Value Decomposition (SVD)**- <br>
+ * **Deep Neural Network**- <br>
+ * **Autoencoders**- <br>
+ * **Restricted Boltzman Model(RBM)**- <br>
+ * **Keras Neural Network**-  <br>
+ * **Page Rank**-  <br>
  
 
  
