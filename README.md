@@ -1,6 +1,6 @@
 # Recommender System using Python 
  ## **My Project Description:**
- The goal of my project is to show the capabilities of a Recommendation Engine.<br>
+ The goal of my project is to show the capabilities of a Recommendation System.<br>
   
    I'll be introducing following things:
 1. Recommendation System Using collaborative filtering 
