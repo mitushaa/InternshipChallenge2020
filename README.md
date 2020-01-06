@@ -37,10 +37,14 @@ another system and thus build a more robust system.
 
 ## Personalization level of Recommender System:
 Recommendations can come at many personalization levels, from using basic statistics
-to looking at individual user data.
+to looking at individual user data.<br><br>
+
+![](https://miro.medium.com/max/960/1*Z5ioNydm3ReqOIcJoAHl-A.png)<br><br>
 
  
  ### 1. Non-Personalized Recommender Sytem:<br>
+ 
+
   *  __Non-personalized__ recommender system displays the products that are popular among the people in general during that time frame.
    
  ### 2. Personalized Recommender System:<br>
