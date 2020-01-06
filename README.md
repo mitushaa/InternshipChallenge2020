@@ -57,6 +57,9 @@ the same recommendations.
 * Tensorflow
 * Neo4j for Graphs
 * Keras
+## Installation Guide:
+
+
 
 ## E-commerce Dataset:
 * Online Retail Data Set -https://archive.ics.uci.edu/ml/datasets/online+retail
@@ -77,7 +80,7 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
 * **IDE Used**- Jupyter<br>
-* **Project Approach**- 
+* **Project Approach**- [Building the Basic Recommendation System](https://github.com/mitushaa/RecommenderSystemUsingPython/wiki/Basic-Recommender-System)<br> 
 
 * **Project Code**- 
     
@@ -110,6 +113,10 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 * **Project Approach**- 
 
 * **Project Code**- 
+
+## Some Recommender Algorithns- 
+
+### 1. Apriori Algorithm
 
 
 
