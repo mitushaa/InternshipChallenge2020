@@ -114,6 +114,7 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 * **Project Code**- 
 
 ## Some Recommender Algorithms- 
+### Every Algorithm has a story to say 😄
 
  * **Apriori Algorithm-** <br> 
  * **Gaussian Theorem**- <br>
