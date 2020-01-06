@@ -81,10 +81,9 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Project Code**- 
 
-Building Real-Time
-Recommendation Engines with Spark
+## 2. Building Real-Time Recommendation Engines with Spark
     
-## 2. Recommender System using Collabrative System (User-Based Technique)
+## 3. Recommender System using Collabrative System (User-Based Technique)
 
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
@@ -94,7 +93,7 @@ Recommendation Engines with Spark
 * **Project Code**- 
 
 
-## 3. Recommender System using Collabrative System (Item-Based Technique)
+## 4. Recommender System using Collabrative System (Item-Based Technique)
 
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
@@ -105,7 +104,7 @@ Recommendation Engines with Spark
 
 
 
-## 4. Recommender System using Hybrid System
+## 5. Recommender System using Hybrid System
 
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
