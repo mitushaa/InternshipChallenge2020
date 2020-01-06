@@ -77,6 +77,8 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
 * **IDE Used**- Jupyter<br>
+* **Project Approach**- 
+
 * **Project Code**- 
     
 ## 2. Recommender System using Collabrative System (User-Based Technique)
@@ -84,6 +86,8 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
 * **IDE Used**- Jupyter<br>
+* **Project Approach**- 
+
 * **Project Code**- 
 
 
@@ -92,6 +96,8 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
 * **IDE Used**- Jupyter<br>
+* **Project Approach**- 
+
 * **Project Code**- 
 
 
@@ -101,6 +107,8 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
 * **IDE Used**- Jupyter<br>
+* **Project Approach**- 
+
 * **Project Code**- 
 
 
