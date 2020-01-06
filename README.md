@@ -42,6 +42,15 @@ another system and thus build a more robust system.
 place? Rather, it makes sense to suggest a coffee. 
    * This type of recommendation, which is personalized and context-aware is called a context-aware recommender
 systems.
+
+## Personalization level of Recommender System:
+Recommendations can come at many personalization levels, from using basic statistics
+to looking at individual user data.
+
+ ![](https://miro.medium.com/max/889/1*Z5ioNydm3ReqOIcJoAHl-A.png)<br><br>
+
+
+
    
    
 ## Technologies Used:
