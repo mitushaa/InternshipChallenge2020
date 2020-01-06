@@ -83,6 +83,7 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
 * **IDE Used**- Jupyter<br>
+* **Pseudocode**- 
 * **Project Code**- 
     
 
