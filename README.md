@@ -67,13 +67,6 @@ the same recommendations.
 
 
 
-## Project Report  
- Project Report-
-
-## Use Case Report
-Use Case
-
-
 ## Implementation of Recommendation System
 This is how I first started 😃
 ## 1.  Building the Basic Recommendation System
@@ -130,6 +123,12 @@ Recommendation Engines with Spark
  * **Keras Neural Network**-  <br>
  * **Page Rank**-  <br>
  
+ ## Project Report  
+ Project Report-
+
+## Use Case Report
+Use Case
+
 
  
 
