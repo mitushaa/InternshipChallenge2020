@@ -35,13 +35,6 @@
    *  This type of recommendation engine is built by combining various recommender systems to build a more robust system. By combining various recommender systems, we can replace the disadvantages of one system with the advantages of
 another system and thus build a more robust system. 
    * For example, by combining collaborative filtering methods, where the model fails when new items don't have ratings, with content-based systems, where feature information about the items is available, new items can be recommended more accurately and efficiently.
- ## 3. Context-aware Recommender Systems
-   * Personalized recommender systems, such as content-based recommender systems, are inefficient; they fail to suggest recommendations with respect to context. 
-   * For example, assume a lady is very fond of ice-cream. Also assume that this lady goes to a cold place. Now there is high chance that a personalized recommender system suggests a popular ice-cream brand. 
-   * Now let us ask our self a question: is it the right thing to suggest an ice-cream to a person in a cold
-place? Rather, it makes sense to suggest a coffee. 
-   * This type of recommendation, which is personalized and context-aware is called a context-aware recommender
-systems.
 
 ## Personalization level of Recommender System:
 Recommendations can come at many personalization levels, from using basic statistics
