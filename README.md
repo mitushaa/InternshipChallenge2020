@@ -49,11 +49,17 @@ to looking at individual user data.
 
  ![](https://miro.medium.com/max/889/1*Z5ioNydm3ReqOIcJoAHl-A.png)<br><br>
  
- * Non-Personalized Recommender Sytem:<br>
+ ### 1. Non-Personalized Recommender Sytem:<br>
    __Non-personalized__ recommender system displays the products that are popular among the people in general during that time frame.
    
- * Personalized Recommender System:<br>
+ ### 2. Personalized Recommender System:<br>
   __Personalized__ recommender system is based on data about the current user that indicates how the user has interacted with the system previously. This generates recommendations specifically for this user.
+  
+ ### 3. Semi-Personalized Recommender System:<br>
+ __Semi-Personalized__ recommender system doesn’t know anything personal about you, only you as
+a member of a group or segment. Other people who fit into the same group will get
+the same recommendations.
+ 
 
 
 
