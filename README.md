@@ -50,12 +50,7 @@ to looking at individual user data.
  * __Semi-Personalized__ recommender system doesn’t know anything personal about you, only you as
 a member of a group or segment. Other people who fit into the same group will get
 the same recommendations.
- 
-
-
-
-   
-   
+    
 ## Technologies Used:
 * Python
 * PySpark
@@ -77,14 +72,37 @@ Use Case
 
 ## Implementation of Recommendation System
 This is how I first started 😃
-### 1.  Building the Basic Recommendation System-
+## 1.  Building the Basic Recommendation System
 Here, I will create a basic movie recommender system in Python that uses the correlation between the ratings assigned to different movies, in order to find the similarity between the movies.
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
 * **IDE Used**- Jupyter<br>
-* **Pseudocode**- 
 * **Project Code**- 
     
+## 2. Recommender System using Collabrative System (User-Based Technique)
+
+
+* **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
+* **IDE Used**- Jupyter<br>
+* **Project Code**- 
+
+
+## 3. Recommender System using Collabrative System (Item-Based Technique)
+
+
+* **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
+* **IDE Used**- Jupyter<br>
+* **Project Code**- 
+
+
+
+## 4. Recommender System using Hybrid System
+
+
+* **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
+* **IDE Used**- Jupyter<br>
+* **Project Code**- 
+
 
 
 
