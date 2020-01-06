@@ -54,9 +54,9 @@ systems.
 Use Case
 
 
-## Implementation of Recommendation Engine
+## Implementation of Recommendation System
 This is how I first started 😃
-### 1.  Building the Basic Recommendation Engine-
+### 1.  Building the Basic Recommendation System-
 Here, I will create a basic movie recommender system in Python that uses the correlation between the ratings assigned to different movies, in order to find the similarity between the movies.
 
 * **Dataset**- https://www.kaggle.com/grouplens/movielens-20m-dataset#movie.csv<br>
