@@ -2,11 +2,11 @@
  ## **My Project Description:**
  The goal of my project is to show the capabilities of a Recommendation System.<br>
   
-   I'll be introducing following things:
-1. Recommendation System Using collaborative filtering 
-2. Recommendation System Using Content Based System
-3. Recommendation System Using Hybrid Recommender
-4. Context Aware Recommender System
+I'll be introducing following things:
+### 1. Recommendation System Using collaborative filtering 
+### 2. Recommendation System Using Content Based System
+### 3. Recommendation System Using Hybrid Recommender
+### 4. Context Aware Recommender System
 
 ## Types of Recommender Systems:
 
