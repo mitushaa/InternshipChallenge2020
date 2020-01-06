@@ -116,7 +116,7 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 ## Some Recommender Algorithns- 
 
-### 1. Apriori Algorithm
+ **1. Apriori Algorithm**- 
 
 
 
