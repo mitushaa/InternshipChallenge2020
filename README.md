@@ -8,7 +8,7 @@
 3. Recommendation System Using Hybrid Recommender
 4. Context Aware Recommender System
 
-## Types of Recommender System:
+## Types of Recommender Systems:
 
  ![](https://miro.medium.com/max/601/1*SZpNyoDNGvlQxBPmRzq_cg.png)<br><br>
 
@@ -31,6 +31,10 @@
    * A content recommender system typically contains a user-profile generation step, item profile generation step and model building step to generate recommendations for an active user. 
    * The content-based recommender system recommends items to users by taking the content or features of items and user profiles. 
    * **Example-** If you have searched for videos of Car Racing on YouTube, then the content-based recommender system will learn your preference and recommend other videos related to Car Racing and other videos related to racing.
+ ## 3. Hybrid Recommender System
+   *  This type of recommendation engine is built by combining various recommender systems to build a more robust system. By combining various recommender systems, we can replace the disadvantages of one system with the advantages of
+another system and thus build a more robust system. 
+   * For example, by combining collaborative filtering methods, where the model fails when new items don't have ratings, with content-based systems, where feature information about the items is available, new items can be recommended more accurately and efficiently.
  ## 3. Context-aware Recommender Systems
    * Personalized recommender systems, such as content-based recommender systems, are inefficient; they fail to suggest recommendations with respect to context. 
    * For example, assume a lady is very fond of ice-cream. Also assume that this lady goes to a cold place. Now there is high chance that a personalized recommender system suggests a popular ice-cream brand. 
