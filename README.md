@@ -3,7 +3,7 @@
  The goal of my project is to show the capabilities of a Recommendation System.<br>
   
 I'll be introducing following things:<br><br>
-**1. Recommendation System Using collaborative filtering**<br>
+**1. Recommendation System Using Collaborative Filtering**<br>
 **2. Recommendation System Using Content Based System**<br>
 **3. Recommendation System Using Hybrid Recommender**<br>
 
