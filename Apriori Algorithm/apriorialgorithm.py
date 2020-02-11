@@ -4,7 +4,6 @@ import numpy as num
 from mlxtend.frequent_patterns import apriori
 from mlxtend.frequent_patterns import association_rules
 df = pd.read_excel('OnlineRetail.xlsx')
-df.head()
 
 # Data Cleanup
 df ['Description'] = df['Description'].str.strip()
