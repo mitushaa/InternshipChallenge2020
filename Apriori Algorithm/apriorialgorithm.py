@@ -11,7 +11,7 @@ df ['Description'] = df['Description'].str.strip()
 df.dropna(axis = 0, subset=['InvoiceNo'], inplace= True)
 df ['InvoiceNo'] = df['InvoiceNo'].astype('str')
 df = df[~df['InvoiceNo'].str.contains("C")]
-df
+df(head)
 
 def encode_units(x):
     if x <= 0:
