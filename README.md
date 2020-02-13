@@ -138,6 +138,8 @@ Here, I will create a basic movie recommender system in Python that uses the cor
 
 ## Use Case Report
 Use Case
+I'll create a use case on how netflix uses recommender system for country wise location. 
+Eg Netflix Use Case
 
 
  
