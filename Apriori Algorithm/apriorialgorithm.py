@@ -1,4 +1,4 @@
-# Importing all the libraries
+# Importing all the libraries all
 import pandas as dp
 import numpy as num
 from mlxtend.frequent_patterns import apriori
